@@ -9,4 +9,4 @@
 
 ### Сриншоты Приложения:
 
-![alt text](screenshots/Hello.png "Основное окно с настройками")
+![ТестоваяВизуализация](https://user-images.githubusercontent.com/75109354/177898458-3ad6fa3f-0d8c-4ef8-9b9d-4cab2b28f893.jpg)
