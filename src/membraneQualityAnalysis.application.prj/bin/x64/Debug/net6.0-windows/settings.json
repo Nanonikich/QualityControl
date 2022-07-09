@@ -1,0 +1,11 @@
+{
+  "Url": "C:\\Users\\Acer\\Desktop\\zz\\Скриншот 09-07-2022 211644.jpg",
+  "Networks": {
+    "detector": {
+      "onnx_path": "C:\\Users\\Acer\\Desktop\\work\\MembraneQualityAnalysis\\src\\neuronet\\detector\\FasterRCNN-10.onnx"
+    },
+    "classifier": {
+      "classifier_path": ""
+    }
+  }
+}

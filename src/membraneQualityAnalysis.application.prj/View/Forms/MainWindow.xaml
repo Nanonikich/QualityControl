@@ -1,0 +1,19 @@
+﻿<Window x:Class="membraneQualityAnalysis.View.Forms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:membraneQualityAnalysis.application.View.Controls"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="QualityCont"  Height="526" Width="874" MinWidth="876" MinHeight="526">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="78*"/>
+            <ColumnDefinition Width="22*"/>
+        </Grid.ColumnDefinitions>
+
+        <local:DetectionControl Grid.Column="1" DataContext="{Binding DetectionViewModel, Source={StaticResource ViewModelLocator}}" />
+        <local:VideoPlayerControl Grid.Column="0" DataContext="{Binding VideoPlayerViewModel, Source={StaticResource ViewModelLocator}}" />
+    </Grid>
+</Window>
