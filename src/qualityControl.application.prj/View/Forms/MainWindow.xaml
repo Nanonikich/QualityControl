@@ -10,10 +10,10 @@
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="289*"/>
-            <ColumnDefinition Width="111*"/>
+            <ColumnDefinition Width="80*"/>
         </Grid.ColumnDefinitions>
 
-        <local:ClassifierControl Grid.Column="1" DataContext="{Binding ClassifierViewModel, Source={StaticResource ViewModelLocator}}" />
+        <local:DetectionControl Grid.Column="1" DataContext="{Binding DetectionViewModel, Source={StaticResource ViewModelLocator}}" />
         <local:VideoPlayerControl Grid.Column="0" DataContext="{Binding VideoPlayerViewModel, Source={StaticResource ViewModelLocator}}" />
     </Grid>
 </Window>

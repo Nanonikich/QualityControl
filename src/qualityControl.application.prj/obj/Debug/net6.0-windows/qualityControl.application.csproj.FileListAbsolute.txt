@@ -3,7 +3,6 @@ C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debu
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\qualityControl.application.runtimeconfig.json
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\qualityControl.application.dll
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\qualityControl.application.pdb
-C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\Autofac.dll
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\qualityControl.application.csproj.AssemblyReference.cache
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\View\Forms\MainWindow.g.cs
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\App.g.cs
@@ -30,5 +29,13 @@ C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debu
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\App.baml
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\View\Controls\ClassifierView.g.cs
-C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\View\Controls\ClassifierView.baml
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\pthreadVC2.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\yolo_cpp_dll.dll
+C:\Users\Acer\Desktop\qualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\ManagedCuda.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\FFMpegCore.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\Instances.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\opencv_world460.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\bin\Debug\net6.0-windows\FastYolo.dll
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\View\Controls\DetectionView.baml
+C:\Users\Acer\Desktop\QualityControl\src\qualityControl.application.prj\obj\Debug\net6.0-windows\View\Controls\DetectionView.g.cs

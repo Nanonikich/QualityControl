@@ -15,7 +15,7 @@ public class ViewModelLocator
 
         services
             .AddSingleton<ProcessConfiguration>()
-            .AddSingleton<ClassifierViewModel>()
+            .AddSingleton<DetectionViewModel>()
             .AddSingleton<VideoPlayerViewModel>()
             .AddSingleton<SettingsViewModel>();
 
@@ -27,7 +27,7 @@ public class ViewModelLocator
         }
     }
 
-    public ClassifierViewModel ClassifierViewModel => _provider.GetRequiredService<ClassifierViewModel>();
+    public DetectionViewModel DetectionViewModel => _provider.GetRequiredService<DetectionViewModel>();
     public VideoPlayerViewModel VideoPlayerViewModel => _provider.GetRequiredService<VideoPlayerViewModel>();
     public SettingsViewModel SettingsViewModel => _provider.GetRequiredService<SettingsViewModel>();
 }

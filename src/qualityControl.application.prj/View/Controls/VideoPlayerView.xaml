@@ -15,12 +15,15 @@
         </Grid.RowDefinitions>
 
         <DockPanel Background="Black" Grid.Row="0" LastChildFill="True">
-            <local:MyMediaElement
+            <!--<local:MyMediaElement
                 x:Name="media"
                 Margin="5"
                 HorizontalAlignment="Center"
                 ScrubbingEnabled="True"
-                Source="{Binding Url}" />
+                Source="{Binding Images}" />-->
+            <Image Margin="5"
+                   HorizontalAlignment="Center"
+                   Source="{Binding Images}"/>
         </DockPanel>
 
         <DockPanel Grid.Row="1">

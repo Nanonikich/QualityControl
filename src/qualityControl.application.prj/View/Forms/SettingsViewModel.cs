@@ -35,8 +35,13 @@ public sealed partial class SettingsViewModel : NotificationObjects
 		OpenFileDialog openFileDialog = new OpenFileDialog();
 
 		if(openFileDialog.ShowDialog() == true)
+		{
 			_oldPath = SelectedPath;
-			SelectedPath = Path.GetFullPath(openFileDialog.FileName);
+			if(openFileDialog.FileName != default)
+			{
+				SelectedPath = Path.GetFullPath(openFileDialog.FileName);
+			}
+		}
 	}
 
 	/// <summary>Применение изменённого пути.</summary>
